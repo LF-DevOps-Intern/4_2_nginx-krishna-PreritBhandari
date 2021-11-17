@@ -1,4 +1,4 @@
-##Assignment
+## Assignment
 
 1. Install nginx and host a simple index.html with message “hello nginx”
 2. What are nginx header security and its uses. And also implement in the test.conf file.
